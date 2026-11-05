@@ -1,0 +1,17 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,sans-serif;background:#f1f5f9;color:#334155;line-height:1.6}
+.navbar{display:flex;justify-content:space-between;align-items:center;background:#0f172a;color:#fff;padding:1rem 5%}
+.navbar nav a{color:#94a3b8;margin-left:1.2rem;text-decoration:none}.navbar nav a:hover{color:#fff}
+.container{width:min(1100px,92%);margin:2rem auto}
+.search{width:100%;padding:.8rem 1rem;border:1px solid #cbd5e1;border-radius:10px;font-size:1rem;margin-bottom:1rem}
+.search:focus{outline:2px solid #6366f1;border-color:transparent}
+.filters{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.chip{padding:.4rem 1rem;border-radius:999px;border:1px solid #cbd5e1;background:#fff;cursor:pointer;font-weight:600;color:#475569}
+.chip.active{background:#6366f1;color:#fff;border-color:#6366f1}
+.results{margin-bottom:1rem;color:#64748b}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.3rem}
+.blog-card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 4px 14px rgba(0,0,0,.08);transition:transform .2s}
+.blog-card:hover{transform:translateY(-4px)}
+.thumb{height:120px;display:grid;place-items:center;font-weight:800;color:#1e1b4b;font-size:1.1rem}
+.body{padding:1.1rem}.body h3{color:#0f172a;margin-bottom:.4rem;font-size:1.05rem}.body p{font-size:.92rem;margin-bottom:.8rem}
+.body small{color:#64748b}.empty{text-align:center;padding:3rem;color:#64748b}

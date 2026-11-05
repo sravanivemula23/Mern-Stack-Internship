@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React Hooks",
+    "category": "Technology",
+    "excerpt": "Learn how useState and useEffect simplify stateful logic in function components.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-01",
+    "image": "#c7d2fe"
+  },
+  {
+    "id": 2,
+    "title": "CSS Grid vs Flexbox: When to Use Which",
+    "category": "Design",
+    "excerpt": "A practical guide to choosing the right layout system for your next interface.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-02",
+    "image": "#fbcfe8"
+  },
+  {
+    "id": 3,
+    "title": "Landing Your First Developer Internship",
+    "category": "Career",
+    "excerpt": "Tips on building a portfolio, writing a resume and acing the interview.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-03",
+    "image": "#bbf7d0"
+  },
+  {
+    "id": 4,
+    "title": "Build a Responsive Navbar in 10 Minutes",
+    "category": "Tutorial",
+    "excerpt": "Step-by-step tutorial for a mobile-first navigation bar using only HTML and CSS.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-04",
+    "image": "#fde68a"
+  },
+  {
+    "id": 5,
+    "title": "Understanding JavaScript Closures",
+    "category": "Technology",
+    "excerpt": "Closures explained with simple examples you can try in the console.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-05",
+    "image": "#c7d2fe"
+  },
+  {
+    "id": 6,
+    "title": "Color Theory for Developers",
+    "category": "Design",
+    "excerpt": "How to pick accessible color palettes without a design degree.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-06",
+    "image": "#fbcfe8"
+  },
+  {
+    "id": 7,
+    "title": "Why Every Developer Should Learn Git",
+    "category": "Career",
+    "excerpt": "Version control basics that will save you from lost work and messy merges.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-07",
+    "image": "#bbf7d0"
+  },
+  {
+    "id": 8,
+    "title": "Fetching Data in React with JSON",
+    "category": "Tutorial",
+    "excerpt": "Load local JSON data and render lists of cards using map and keys.",
+    "author": "Sravani Vemula",
+    "date": "2026-10-08",
+    "image": "#fde68a"
+  }
+]
