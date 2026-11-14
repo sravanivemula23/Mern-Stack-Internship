@@ -1,0 +1,4 @@
+/* Class names in a .module.css file are made unique at build time,
+   e.g. ".title" becomes ".Card_title__x7Kq2". */
+.card{background:#fff;padding:1.2rem;border-radius:12px;border-top:5px solid #6366f1;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.title{color:#6366f1;font-size:1.3rem;margin-bottom:.4rem}

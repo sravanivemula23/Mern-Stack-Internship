@@ -1,0 +1,15 @@
+.app{width:min(560px,92%);margin:2.5rem auto;background:#fff;padding:1.6rem;border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,.09)}
+h1{color:#1e1b4b;margin-bottom:1rem}
+.todo-form-row{display:flex;gap:.5rem}
+.todo-form input{flex:1;padding:.7rem;border:1px solid #cbd5e1;border-radius:8px;font:inherit;min-width:0}
+.todo-form input:focus{outline:2px solid #6366f1;border-color:transparent}
+button{padding:.65rem 1.2rem;border:0;border-radius:8px;background:#6366f1;color:#fff;font-weight:600;cursor:pointer}
+button:hover{background:#4f46e5}
+.error{color:#dc2626;font-size:.88rem;margin-top:.4rem}
+.todo-list{list-style:none;margin-top:1.2rem;display:grid;gap:.6rem}
+.todo-item{display:flex;justify-content:space-between;align-items:center;gap:.6rem;padding:.7rem .9rem;background:#f1f5f9;border-radius:8px}
+.todo-item label{display:flex;align-items:center;gap:.6rem;cursor:pointer;word-break:break-word}
+.todo-item.done span{text-decoration:line-through;color:#94a3b8}
+.delete{background:#ef4444;padding:.4rem .8rem;font-size:.85rem}.delete:hover{background:#dc2626}
+.empty{text-align:center;color:#64748b;margin:1rem 0}
+.summary{margin-top:1rem;font-size:.9rem;color:#64748b}
